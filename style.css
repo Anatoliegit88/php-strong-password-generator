@@ -1,0 +1,11 @@
+.container {
+  height: 100vh;
+  background-color: rgb(89, 89, 230);
+}
+.left-side {
+  width: 50%;
+}
+.right-side {
+  width: 50%;
+  padding: 1rem;
+}
