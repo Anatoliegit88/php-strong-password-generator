@@ -10,18 +10,18 @@
 </head>
 <body>
   <main>
-    <div class="container">
-        <div class="text-center">
+    <div class="container rounded p-5">
+        <div class="text-center text-light">
             <h1>Strong Password Generator</h1>
             <h3>Genera una password sicura</h3>
         </div class="text-center">
           <form>
-            <div class="m-5 text-info bg-dark">
+            <div class="m-5 text-info text-info">
               <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Nessun parametro valido inserito" >
             </div>
           </form>
-          <div class="container-fluid d-flex ">
-            <div class="left-side bg-light p-3">
+          <div class="container-small d-flex  ">
+            <div class="left-side bg-light  p-3">
               <p>Lunghezza password</p>
               <p>Consenti ripetizioni di uno o piu caratteri:</p>
               <div class="mt-5 mb-3">
